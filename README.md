@@ -7,3 +7,8 @@ Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
 Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
 Working on Git Collaboration and KanzuCode Foundation
+
+#Mission
+   <ul>
+            To write very clean code and working code by the end of the bootcamp
+        </ul>
